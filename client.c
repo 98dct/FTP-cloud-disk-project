@@ -162,6 +162,7 @@ int main(int argc,char ** argv){
         memset(writebuf,0,strlen(writebuf));
 
     }
+    printf("hello world\n");
     
     return 0;
 }

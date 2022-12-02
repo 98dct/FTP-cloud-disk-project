@@ -171,6 +171,8 @@ int main(int argc,char ** argv){
                 memset(readbuf,0,sizeof(readbuf));
             }
         }
+
+        printf("hello world\n");
         
 
     }
